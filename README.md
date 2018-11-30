@@ -86,6 +86,4 @@ Software Development at [Western Governors University](https://www.wgu.edu/)
 
 Available upon request. I don't want to post other people's private contact information online.
 
-##### [Back to top](#nbb)
-
 © Copyright 2018 Nikolas Bennion Bradshaw. This site is [open source](https://nbb.io/license) under the GNU GPL 3.0 license, feel free to [contribute or suggest changes](https://github.com/nikobradshaw/nikobradshaw.github.io).
